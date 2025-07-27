@@ -1,2 +1,1 @@
-IN .env FILE 
-use OPEN_API_KEY=YOUR_OPEN_API_KEY
+
